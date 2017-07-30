@@ -1,0 +1,3 @@
+[submodule "IRremote"]
+	path = IRremote
+	url = https://github.com/z3t0/Arduino-IRremote
